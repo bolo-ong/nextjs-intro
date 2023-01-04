@@ -27,6 +27,8 @@ export default function Home() {
                     grid-template-columns: 1fr 1fr;
                     padding: 20px;
                     gap: 20px;
+                }.movie {
+                    cursor: pointer;
                 }
                 .movie img {
                     max-width: 100%;
